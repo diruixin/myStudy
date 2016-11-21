@@ -59,6 +59,20 @@
 2. 把需要克隆的仓库的HTTP地址复制下来
 3. 在本地执行命令： git clone 远程仓库地址
 
+## 分支
+### 创建与合并分支
+- git branch name 创建分支
+- git checkout name 切换分支
+- git checkout -b name 创建并切换分支
+- git branch 查看分支
+- git merge name 合并某分支到当前分支
+- git branch -d name 删除分支
+- git merge --no-ff -m "注释" name  禁用Fast forward模式 合并分支
+
+
+
+----------
+
 ## 工作区和暂存区
 - 工作区：就是你在电脑上看到的目录，比如目录下testgit里的文件(.git隐藏目录版本库除外)。或者以后需要再新建的目录文件等等都属于工作区范畴。
 
@@ -68,5 +82,4 @@
 
 - 第一步：是使用 git add 把文件添加进去，实际上就是把文件添加到暂存区。
 
-- 第二步：使用git commit提交更改，实际上就是把暂存区的所有内容提交到当前分支上。
-	
+- 第二步：使用git commit提交更改，实际上就是把暂存区的所有内容提交到当前分支上。	
