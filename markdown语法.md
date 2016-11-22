@@ -23,10 +23,19 @@ _这也是斜体_
 ## 插入图片
 ![图片名称](http://图片网址)
 
----
+## 表格
+|序号|姓名|
+|----|----
+
+## 待办事项
+- [] a
+
 
 ## 引用
 > 1
 >> 2
->>> 3
-> afafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfa
+
+```cpp
+int a;  
+int b;  
+```
