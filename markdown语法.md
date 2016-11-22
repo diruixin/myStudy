@@ -1,16 +1,8 @@
 # Markdown语法
 ## 无序列表
-### 法一
 * first
-* second  
-
-### 法二 
-- first
-- second  
-
-### 法三 
-+ 123
-+ 456
++ second  
+- third
 
 ## 有序列表
 1. first
@@ -25,5 +17,16 @@ _这也是斜体_
 ***粗斜体***  
 
 ## 链接
-<http://www.baidu.com>  
+网页链接： <http://www.baidu.com>   
+文字链接： [百度首页](www.baidu.com)
 
+## 插入图片
+![图片名称](http://图片网址)
+
+---
+
+## 引用
+> 1
+>> 2
+>>> 3
+> afafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfaafafadfadfa
