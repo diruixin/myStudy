@@ -25,6 +25,5 @@ _这也是斜体_
 ***粗斜体***  
 
 ## 链接
-<http://www.baidu.com> 
+<http://www.baidu.com>  
 
-[百度首页]（http://www.baidu.com）
