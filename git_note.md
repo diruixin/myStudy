@@ -54,6 +54,15 @@
 5. 在本地仓库运行命令： git remote add origin 远程仓库地址
 6. 把本地仓库的内容push至远程仓库，命令：git push -u origin master （首次加上-u参数）
 
+### 从远程仓库下载文件
+- git fetch
+- git merge
+
+### 再次push远程仓库
+- git add
+- git commit -m "注释"
+- git push origin master
+
 ### 克隆远程仓库
 1. 登录Github
 2. 把需要克隆的仓库的HTTP地址复制下来
